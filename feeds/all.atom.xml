@@ -1,99 +1,489 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL KMOL 課程</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-09-19T11:41:00+08:00</updated><entry><title>2015 計算機程式 作業一</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40423139作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2016-01-08T00:00:00+08:00</updated><entry><title>2015 計算機程式 作業1</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2016-01-08T00:00:00+08:00</updated><author><name>40423139</name></author><id>tag:coursemdetw.github.io,2016-01-08:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
+&lt;iframe src="w1.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;使用 H1 標題&lt;/h1&gt;
-&lt;p&gt;文字段落間若要跳行, 必須插入空白行, 否則將會被 Markdown 視連續的資料&lt;/p&gt;
-&lt;p&gt;使用. &lt;em&gt;斜體文字&lt;/em&gt;, &lt;strong&gt;黑體文字&lt;/strong&gt;, 以及 &lt;code&gt;單線文字&lt;/code&gt;. 表列資料可以寫為:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;第1項說明&lt;/li&gt;
-&lt;li&gt;第2項說明&lt;/li&gt;
-&lt;li&gt;第3項說明&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;特別注意 --- 不包括星號 --- 表列文字從第四欄位開始.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;引用的內容寫在這裡
-主要是以大於的符號開頭.&lt;/p&gt;
-&lt;p&gt;其中也可以利用空白行隔開,
-整區都是引用內容的範圍.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;em-dash 符號是3個 dashes. 利用兩個 dashes 來連接開始與結束 (ex., "這個禮拜要閱讀章節 12--14"). 3個逗點 ... 則會被轉為 ellipsis.
-pelican 可以支援 unicode. ☺&lt;/p&gt;
-&lt;h2&gt;H2 標題&lt;/h2&gt;
-&lt;p&gt;有數字的表列資料:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;第1項&lt;/li&gt;
-&lt;li&gt;第2項&lt;/li&gt;
-&lt;li&gt;第3項&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;跟前面一樣, 文字從第四個欄位開始.&lt;/p&gt;
-&lt;p&gt;程式碼的表達:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;# for 重複迴圈 ...
-for i in 1 .. 10 { 呼叫特定函式(i) }
-&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Anaconda3是我們這學習學習python的工具,讓我們來安裝吧:))&lt;/p&gt;
+&lt;p&gt;1.到老師網頁下載Anaconda3&lt;font color=red&gt;http://wordpress-2015course.rhcloud.com/?page_id=3633 &lt;/font&gt;   &lt;/p&gt;
+&lt;p&gt;2.下載fix&lt;/p&gt;
+&lt;p&gt;3.點擊 &lt;font color=red&gt;fix.bat &lt;/font&gt;  ---它只會閃一下&lt;/p&gt;
+&lt;p&gt;4.點擊&lt;font color=red&gt;start.bat&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;5.完成囉&lt;/p&gt;
+&lt;h2&gt;&lt;font color=purple&gt;心得&lt;/font&gt;&lt;/h2&gt;
+&lt;p&gt;這是我完全沒碰過的東西,希望我可以好好學習它!!!加油:))))&lt;/p&gt;
+&lt;h2&gt;&lt;font color=purple&gt;自評&lt;/font&gt;&lt;/h2&gt;
+&lt;p&gt;70!!老師!讓我過吧:))&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業11</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w11.html" rel="alternate"></link><updated>2016-01-08T00:00:00+08:00</updated><author><name>40423139</name></author><id>tag:coursemdetw.github.io,2016-01-08:reveal/2015cp_hw_w11.html</id><summary type="html">&lt;p&gt;以下為作業11內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="w11.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
+&lt;p&gt;&lt;font color=red&gt;Python3 的近端程式開發系統如何建立及修改? 如何啟動?&lt;/font&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;font color=blue&gt;建立&lt;/font&gt;&lt;/h2&gt;
+&lt;p&gt;我們先利用gogle搜尋leo editor並且進入下載最新版的資料!&lt;/p&gt;
+&lt;p&gt;然後進課程網頁http://wordpress-2015course.rhcloud.com/?page_id=3633 下載fix檔!&lt;/p&gt;
+&lt;p&gt;fix解壓縮後把剛剛下載的ieo editor放入!開啟scite編輯器執行fix.bat--copy leo-editor-broke-abbrev.zip C:\Ana3_2015\data\&lt;/p&gt;
+&lt;p&gt;然後修改start.bat--第35行pip install leo-editor-broke-abbrev.zip,近端的python3就完成了!!&lt;/p&gt;
+&lt;h2&gt;&lt;font color=blue&gt;啟動&lt;/font&gt;&lt;/h2&gt;
+&lt;p&gt;我們由start.bat可以充分理解它啟動了那些東西&lt;/p&gt;
+&lt;p&gt;&lt;font color=red&gt;REM 啟動 Jupyter&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;cd tmp&lt;/p&gt;
+&lt;p&gt;start %Disk%:\Anaconda3\python.exe "%Disk%:\Anaconda3\Scripts\ipython-script.py" notebook --ip=%thisip% --certfile=%Disk%:\home\ssl_cert.pem --profile=nbserver&lt;/p&gt;
+&lt;p&gt;&lt;font color=red&gt;REM 利用 pip install pelilcan 與 Markdown&lt;/font&gt;
+pip install leo-editor-broke-abbrev.zip&lt;/p&gt;
+&lt;p&gt;&lt;font color=red&gt;REM 啟動 VMEmulator&lt;/font&gt;
+REM start %Disk%:\apps\nand2tetris\tools\VMEmulator.bat&lt;/p&gt;
+&lt;p&gt;&lt;font color=red&gt;REM 啟動 Assembler&lt;/font&gt;
+REM start %Disk%:\apps\nand2tetris\tools\Assembler.bat&lt;/p&gt;
+&lt;p&gt;&lt;font color=red&gt;REM 啟動 CPUEmulator&lt;/font&gt;
+REM start %Disk%:\apps\nand2tetris\tools\CPUEmulator.bat&lt;/p&gt;
+&lt;p&gt;&lt;font color=red&gt;REM 啟動 HardwareSimulator&lt;/font&gt;
+REM start %Disk%:\apps\nand2tetris\tools\HardwareSimulator.bat&lt;/p&gt;
+&lt;p&gt;&lt;font color=red&gt;REM 啟動 JackCompiler&lt;/font&gt;
+REM start %Disk%:\apps\nand2tetris\tools\JackCompiler.bat&lt;/p&gt;
+&lt;p&gt;&lt;font color=red&gt;REM 啟動 TextComparer&lt;/font&gt;
+REM start %Disk%:\apps\nand2tetris\tools\TextComparer.bat&lt;/p&gt;
+&lt;p&gt;&lt;font color=red&gt;REM 啟動 node.js&lt;/font&gt;
+REM start /MIN cmd.exe /k "%Disk%:\nodejs\nodejsvars.bat"&lt;/p&gt;
+&lt;p&gt;&lt;font color=red&gt;REM start %Disk%:\nodejs\node.exe&lt;/font&gt;
+start /MIN cmd.exe&lt;/p&gt;
+&lt;p&gt;&lt;font color=red&gt;REM start %Disk%:\IDE\nodejs\node.exe&lt;/font&gt;
+REM C:\WINDOWS\system32\cmd.exe /k %Disk%:\IDE\nodejs\nodejsvars.bat&lt;/p&gt;
+&lt;p&gt;&lt;font color=red&gt;REM 啟動 Leo 編輯器&lt;/font&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;font color=purple&gt;心得&lt;/font&gt;&lt;/h2&gt;
+&lt;p&gt;自己慢慢漸入佳境了
+希望真的可以了解老師的苦心
+我會加油的:))))))&lt;/p&gt;
+&lt;h2&gt;&lt;font color=purple&gt;自評&lt;/font&gt;&lt;/h2&gt;
+&lt;p&gt;自評分數：70&lt;/p&gt;
+&lt;p&gt;老師讓我過吧!!!!
+我會更加努力的!!!&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業12</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w12.html" rel="alternate"></link><updated>2016-01-08T00:00:00+08:00</updated><author><name>40423139</name></author><id>tag:coursemdetw.github.io,2016-01-08:reveal/2015cp_hw_w12.html</id><summary type="html">&lt;p&gt;以下為作業12內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="w12.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;這裡也是要空4個 space 鍵. &lt;/p&gt;
-&lt;p&gt;除了每一行空4個空白, 也可以使用 delimited 來界定程式碼範圍, 就像這樣:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;define foobar() {
-    print(&amp;quot;歡迎進入程式的世界!&amp;quot;)
-}
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;(這樣的表達比較容易用來複製程式碼內容).&lt;/p&gt;
-&lt;p&gt;python 的程式碼, 可以寫成下列格式&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;time&lt;/span&gt;
-&lt;span class="c"&gt;# 以下會從 0 數到 9&lt;/span&gt;
-&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
-    &lt;span class="c"&gt;# 稍微暫停一下&lt;/span&gt;
-    &lt;span class="n"&gt;time&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;sleep&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mf"&gt;0.5&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-    &lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;h3&gt;H3 標題&lt;/h3&gt;
-&lt;p&gt;以下則為內嵌式的表列法t:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;首先, 將完成下列元件的設計:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;轉向機構&lt;/li&gt;
-&lt;li&gt;煞車系統&lt;/li&gt;
-&lt;li&gt;踩踏機構&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;接著連繫工業設計部門.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;確定上述元件的各項設計與用料都符合原始設計規格的要求
-    查驗表:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;各元件材質
-車蓋顏色
-機構調校流程
-需要熱處理的元件列表
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;完成上述查驗後, 請通知品保部門, 以便接續處理.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;特別注意各階資料都以內縮4個空白鍵來加以區隔, 包含最後一行.&lt;/p&gt;
-&lt;p&gt;Markdown 的超文件連結寫法 &lt;a href="http://www.google.com" target="_blank"&gt;連到 Google&lt;/a&gt;, 也可以連到同目錄下的檔案 &lt;a href="cadpbw1.html" target="_blank"&gt;cadpbw1.html&lt;/a&gt;, 也能使用註腳 &lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="#fn:1" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-&lt;p&gt;放入圖檔, 可以直接利用 html 的 img 標註:&lt;/p&gt;
-&lt;p&gt;&lt;img src="images/3d_parts_viewer.png" width="250" alt="3D 零件檢視"&gt;&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;Vimeo 影片嵌入(直接從 Vimeo 影片上的 Share 複製 html 碼):&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/137724068" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程系 KMOL&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;div class="footnote"&gt;
+&lt;p&gt;&lt;font color=red&gt;猜數字遊戲&lt;/font&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;font color=blue&gt;流程圖&lt;/font&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;script src="https://www.gliffy.com/diagramEmbed.js" type="text/javascript"&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;gliffy_did="9733113";embedGliffy();&lt;/script&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;font color=blue&gt;影片&lt;/font&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;font color=purple&gt;心得&lt;/font&gt;&lt;/p&gt;
 &lt;hr /&gt;
-&lt;ol&gt;
-&lt;li id="fn:1"&gt;
-&lt;p&gt;註腳會連結到這裡.&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
+&lt;p&gt;猜數字遊戲
+ 剛開始看到時,完全看不懂
+ 不過慢慢地我漸漸看懂了
+ 不過很容易出trouble
+ 但我會努力的&lt;/p&gt;
+&lt;h2&gt;&lt;font color=purple&gt;自評&lt;/font&gt;&lt;/h2&gt;
+&lt;p&gt;自評分數：70
+ &lt;a&gt;老師!!讓我過吧&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業13</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w13.html" rel="alternate"></link><updated>2016-01-08T00:00:00+08:00</updated><author><name>40423139</name></author><id>tag:coursemdetw.github.io,2016-01-08:reveal/2015cp_hw_w13.html</id><summary type="html">&lt;p&gt;以下為作業13內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="w13.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;程式碼&lt;/p&gt;
+&lt;p&gt;import random&lt;/p&gt;
+&lt;p&gt;產生標準答案    利用 list 數列資料型別建立顏色選項&lt;/p&gt;
+&lt;p&gt;#Red 紅色, White 白色, Yellow 黃色, Green 綠色, Blue 藍色, Purple 紫色, 假設顏色值不會重複&lt;/p&gt;
+&lt;p&gt;print('''遊戲規則說明: 可選顏色值, \nRed 紅色, White 白色, Yellow 黃色, Green 綠色, \nBlue 藍色, Purple 紫色, \nRBYGBP, \nX 表示位置與顏色都對, O 表示顏色對, 但是位置不對.''')&lt;/p&gt;
+&lt;p&gt;顏色選項 = ["R", "W", "Y", "G", "B", "P"]&lt;/p&gt;
+&lt;p&gt;標準答案 = random.sample(顏色選項, 4)&lt;/p&gt;
+&lt;p&gt;print (標準答案)&lt;/p&gt;
+&lt;p&gt;顏色字串 = ""
+幾次決勝 = 9
+猜測次數 = 0
+遊戲進行中 = True&lt;/p&gt;
+&lt;p&gt;print ("總共有", 幾次決勝 - 猜測次數, "次機會,可以猜!")&lt;/p&gt;
+&lt;p&gt;for i in range(len(顏色選項)):&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;顏色字串 += 顏色選項[i]
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;#print (顏色字串)&lt;/p&gt;
+&lt;p&gt;while 遊戲進行中:
+    位置顏色都正確 = ""&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;顏色對位置錯 = &amp;quot;&amp;quot;
+
+# 將使用者的輸入轉為大寫英文字母
+
+使用者猜測輸入 = input(&amp;quot;請從下列顏色值中選四個, &amp;quot;+顏色字串+&amp;quot;: &amp;quot;).upper()
+
+猜測次數 += 1
+
+# 檢驗是否輸入四個顏色字母
+
+if len(使用者猜測輸入) != len(標準答案):
+
+    print (&amp;quot;\n只能猜四個顏色, 請重猜!&amp;quot;)
+
+    print (&amp;quot;\n剩下&amp;quot;, 幾次決勝 - 猜測次數, &amp;quot;次機會,可以猜: &amp;quot;)
+    continue
+# 判斷是否重複選擇相同顏色
+
+if len(使用者猜測輸入) &amp;gt; len(set(使用者猜測輸入)):
+
+    print (&amp;quot;\n顏色值不能重複！&amp;quot;)
+
+    print (&amp;quot;\n剩下&amp;quot;, 幾次決勝 - 猜測次數, &amp;quot;次機會,可以猜: &amp;quot;)
+
+    continue
+
+     for i in range(4):
+
+    # 判斷是否從顏色選項輸入
+
+    if 使用者猜測輸入[i] not in 顏色選項:
+
+        print (&amp;quot;\n只能從下列顏色選項中輸入!&amp;quot;, 顏色選項)
+
+        print (&amp;quot;\n剩下&amp;quot;, 幾次決勝 - 猜測次數, &amp;quot;次機會,可以猜: &amp;quot;)
+
+        continue
+
+if 位置顏色都正確 != &amp;quot;XXXX&amp;quot;:
+    for i in range(4):
+
+        if 使用者猜測輸入[i] == 標準答案[i]:
+
+            位置顏色都正確 += &amp;quot;X&amp;quot;
+
+        if  使用者猜測輸入[i] != 標準答案[i] and 使用者猜測輸入[i] in 標準答案:
+            顏色對位置錯 += &amp;quot;O&amp;quot;
+
+    print (位置顏色都正確 +  顏色對位置錯 + &amp;quot;\n&amp;quot;)
+
+if 位置顏色都正確 == &amp;quot;XXXX&amp;quot;:
+
+    if 猜測次數 == 1:
+
+        print (&amp;quot;太神奇了, 1 次就猜對!&amp;quot;)
+
+    else:
+        print (&amp;quot;還不錯... 總共猜了 &amp;quot; + str(猜測次數) + &amp;quot; 次, 終於猜對!&amp;quot;)
+
+    遊戲進行中 = False
+
+
+if 猜測次數&amp;gt;= 1 and 猜測次數 = 幾次決勝:
+
+    print (&amp;quot;沒有猜對! 願賭服輸, 答案顏色值為: &amp;quot; + str(標準答案))
+
+    遊戲進行中 = False
+
+# 詢問要不要再玩
+
+while 遊戲進行中 == False:
+    遊戲結束詢問 = input(&amp;quot;\n要不要再玩 (Y/N)?&amp;quot;).upper()
+
+    # 猜測次數歸零
+
+    猜測次數 = 0
+
+    if 遊戲結束詢問 ==&amp;quot;N&amp;quot;:
+
+        print (&amp;quot;歡迎再回來玩!&amp;quot;)
+
+    elif 遊戲結束詢問 == &amp;quot;Y&amp;quot;:
+
+        遊戲進行中 = True
+
+        # 重新產生標準答案
+
+        標準答案 = random.sample(顏色選項, 4)
+
+        #print (標準答案)
+
+        print (&amp;quot;好, 再玩一次...&amp;quot;)
+
+        print (&amp;quot;總共有&amp;quot;, 幾次決勝 - 猜測次數, &amp;quot;次機會,可以猜!&amp;quot;)
+&lt;/pre&gt;&lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業14</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w14.html" rel="alternate"></link><updated>2016-01-08T00:00:00+08:00</updated><author><name>4042313</name></author><id>tag:coursemdetw.github.io,2016-01-08:reveal/2015cp_hw_w14.html</id><summary type="html">&lt;p&gt;以下為作業14內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="w14.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;!-- 導入 brython.js --&gt;
+
+&lt;script type="text/javascript" src="js/40423103-w14.js"&gt;&lt;/script&gt;
+
+&lt;!-- 啟動 brython() --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+
+&lt;!-- 以下利用 Brython 程式執行繪圖 --&gt;
+
+&lt;canvas id="plotarea" width="200" height="200"&gt;&lt;/canvas&gt;
+
+&lt;script type="text/python3"&gt;
+# 導入 doc
+from browser import document as doc
+from browser import console
+import math
+
+# 準備繪圖畫布
+canvas = doc["plotarea"]
+ctx = canvas.getContext("2d")
+
+# 開始畫直線
+for i in range(11):
+    ctx.beginPath()
+    ctx.lineWidth = 5
+    ctx.moveTo(0,0+i*20 )
+    ctx.lineTo(200,0+i*20 )
+    ctx.strokeStyle = "#0000ff"
+    ctx.stroke()
+for i in range(11):
+    ctx.beginPath()
+    ctx.lineWidth = 5
+    ctx.moveTo(0+i*20, 0)
+    ctx.lineTo(0+i*20, 200)
+    ctx.strokeStyle = "#FF0000"
+    ctx.stroke()
+
+
+&lt;/script&gt;
+
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+
+&lt;h2&gt;&lt;font color=purple&gt; 心得 &lt;/font&gt;&lt;/h2&gt;
+&lt;p&gt;總算有一點點的小小成就了,好高興哦:)))  灑花&lt;/p&gt;
+&lt;h2&gt;&lt;font color=purple&gt; 自評&lt;/font&gt;&lt;/h2&gt;
+&lt;p&gt;70!!!老師!讓我過吧:))&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業15</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w15.html" rel="alternate"></link><updated>2016-01-08T00:00:00+08:00</updated><author><name>40423139</name></author><id>tag:coursemdetw.github.io,2016-01-08:reveal/2015cp_hw_w15.html</id><summary type="html">&lt;p&gt;以下為作業15內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="w15.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="http://imgur.com/f7JfTiC"&gt;&lt;img src="http://i.imgur.com/f7JfTiC.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/VBwOXPD"&gt;&lt;img src="http://i.imgur.com/VBwOXPD.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;font color=purple&gt;心得 &lt;/font&gt;&lt;/h2&gt;
+&lt;p&gt;祝大家聖誕快樂!!闔家平安
+老師!!!!讓我過吧!!!&lt;/p&gt;
+&lt;h2&gt;&lt;font color=purple&gt;自評 &lt;/font&gt;&lt;/h2&gt;
+&lt;p&gt;老師!!!聖誕快樂!!我要70分:))&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業16</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w16.html" rel="alternate"></link><updated>2016-01-08T00:00:00+08:00</updated><author><name>40423139</name></author><id>tag:coursemdetw.github.io,2016-01-08:reveal/2015cp_hw_w16.html</id><summary type="html">&lt;p&gt;以下為作業16內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="w16.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;歡喜迎接2016囉:))))
+&lt;a href="http://imgur.com/FZQclPX"&gt;&lt;img src="http://i.imgur.com/FZQclPX.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業17</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w17.html" rel="alternate"></link><updated>2016-01-08T00:00:00+08:00</updated><author><name>40423139</name></author><id>tag:coursemdetw.github.io,2016-01-08:reveal/2015cp_hw_w17.html</id><summary type="html">&lt;p&gt;以下為作業17內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="w17.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Brython彈力球動畫&lt;/h2&gt;
+&lt;!-- 導入 brython.js --&gt;
+
+&lt;script type="text/javascript" src="http://brython.info/src/brython_dist.js"&gt;&lt;/script&gt;
+
+&lt;!-- 啟動 brython() --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+
+&lt;!-- 以下利用 Brython 程式執行繪圖 --&gt;
+
+&lt;canvas id="plotarea" width="600" height="400"&gt;&lt;/canvas&gt;
+
+&lt;script type="text/python3"&gt;
+# 導入 browser 模組中的 document, 並設為 doc 變數
+from browser import document as doc
+
+# 導入數學模組
+import math
+
+# 產生各小球的亂數速度用
+import random
+
+# 導入 browser 中的計時器, 建立動畫用
+import browser.timer
+
+# 準備繪圖畫布
+canvas = doc["plotarea"]
+ctx = canvas.getContext("2d")
+
+# 取畫布的寬與高度
+width = canvas.width
+height = canvas.height
+
+n = 15
+# 已知數列內容個數, 先分別與 None 對應
+x = [None]*n
+y = [None]*n
+vy = [None]*n
+vx = [None]*n
+# 重力加速度, Y 方向向下為正
+g = 0.1
+# 空氣的黏滯阻尼係數
+cor = 0.7 
+# 球的彈力係數
+fr = 0.95
+# 球的半徑
+r = 4
+
+for i in range(n):
+    x[i] = 300
+    y[i] = 100
+    # random.random() 將會產生介於 0 與 1 的浮點亂數
+    vx[i] = 2*(random.random()-.5)
+    vy[i] = 2*(random.random()-.5)
+
+# 更新第 i 球 Y 座標的運算邏輯
+def updateY(i):
+    if ((y[i]+r) &lt; height):
+        #y = height
+        vy[i] += g
+    else:
+        vy[i] = -vy[i]*cor
+        vx[i] *= fr
+    y[i] += vy[i]
+    if ((y[i]+r) &gt; height):
+        y[i] = height-r
+
+# 更新第 i 球 X 座標的運算邏輯
+def updateX(i):
+    if ((x[i]+r) &gt;= width or (x[i]-r) &lt;= 0):
+        vx[i] = -vx[i]*cor
+    x[i] += vx[i]
+    if ((x[i]+r) &gt; width):
+        x[i] = width-r
+    elif ((x[i]-r) &lt; 0):
+        x[i] = r
+
+# 畫圓函式
+def circle(x,y,r):
+    ctx.beginPath()
+    ctx.arc(x, y, r, 0, math.pi*2, True)
+    ctx.fill()
+
+# 寫字函式
+def text(s):
+    ctx.fillStyle = "#ff0000"
+    ctx.font = "30px sans-serif"
+    ctx.textBaseline = "bottom"
+    ctx.fillText(s,0,height)
+
+# 每隔特定時間, 進行動畫繪製
+def animate():
+    # 刷新畫布
+    ctx.clearRect(0, 0, width, height)
+    # 逐一重新繪製小球
+    ctx.fillStyle = "#000000"
+    for i in range(n):
+        updateY(i)
+        updateX(i)
+        circle(x[i],y[i],r)
+
+text("Click me!")
+
+# 畫布點擊後執行的函式
+def on_canvas_click(ev):
+    browser.timer.set_interval(animate,0)
+
+# 只要使用者點擊在畫布上任何地方, 即執行 on_canvas_click 函式
+canvas.bind('click', on_canvas_click, False)
+&lt;/script&gt;
+
+&lt;h2&gt;&lt;font color=purple&gt;心得 &lt;/font&gt;&lt;/h2&gt;
+&lt;p&gt;老師!!我已經盡力在學了
+分數不再高 !六十者已!
+希望老師高抬貴手!!讓我pass吧&lt;/p&gt;
+&lt;h2&gt;&lt;font color=purple&gt;自評 &lt;/font&gt;&lt;/h2&gt;
+&lt;p&gt;70分:)))我會繼續努力的&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業2</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w2.html" rel="alternate"></link><updated>2016-01-08T00:00:00+08:00</updated><author><name>40423139</name></author><id>tag:coursemdetw.github.io,2016-01-08:reveal/2015cp_hw_w2.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="w2.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;&lt;font color=blue&gt;上傳資料&lt;/font&gt;&lt;/h2&gt;
+&lt;p&gt;1.打開命令提示字元&lt;/p&gt;
+&lt;p&gt;2.cd你要上傳的資料夾&lt;/p&gt;
+&lt;p&gt;3.git add -A拍快照&lt;/p&gt;
+&lt;p&gt;4.git commit -m "你更改了哪些項目"&lt;/p&gt;
+&lt;p&gt;5.git config --global user.email "xxxxxxx@xxxxxxx"使別人知道上傳者是誰&lt;/p&gt;
+&lt;p&gt;6.git config --global user.name"xxxxxx"使別人知道上傳者是誰&lt;/p&gt;
+&lt;p&gt;7.git pull origin gh-pages避免衝突及抓取最新資訊&lt;/p&gt;
+&lt;p&gt;8.git push origin gh-pages上傳囉:))&lt;/p&gt;
+&lt;h2&gt;&lt;font color=purple&gt;心得&lt;/font&gt;&lt;/h2&gt;
+&lt;p&gt;面對一堆指令唯有不斷練習再練習,就可以把他學會了!!!加油哦:)))&lt;/p&gt;
+&lt;h2&gt;&lt;font color=purple&gt;自評&lt;/font&gt;&lt;/h2&gt;
+&lt;p&gt;70老師!!!給我過吧:)))&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業3</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w3.html" rel="alternate"></link><updated>2016-01-08T00:00:00+08:00</updated><author><name>40423139</name></author><id>tag:coursemdetw.github.io,2016-01-08:reveal/2015cp_hw_w3.html</id><summary type="html">&lt;p&gt;以下為作業3內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="w3.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;&lt;font color=blue&gt;建立分支&lt;/font&gt;&lt;/h2&gt;
+&lt;p&gt;1.創立一個新倉儲&lt;/p&gt;
+&lt;p&gt;2.git clone下來&lt;/p&gt;
+&lt;p&gt;3.cd 倉儲名稱
+4.git branch gh-pages 新增分支為gh-pages&lt;/p&gt;
+&lt;p&gt;5.git checkout gh-pages 切換分支為gh-pages&lt;/p&gt;
+&lt;p&gt;6.到課程網址&lt;font color=red&gt;http://wordpress-2015course.rhcloud.com/?page_id=3633 &lt;/font&gt;下載reveal 倉儲&lt;/p&gt;
+&lt;p&gt;7.把reveal 倉儲的東西複製到你自己git clone下來的倉儲但&lt;font color=red&gt;不要選取read me檔&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;8.上傳囉&lt;/p&gt;
+&lt;h2&gt;&lt;font color=purple&gt;心得&lt;/font&gt;&lt;/h2&gt;
+&lt;p&gt;幹了好多蠢事&lt;/p&gt;
+&lt;p&gt;不過我也學到更多了&lt;/p&gt;
+&lt;p&gt;老師說過在學校可以的話把所有的錯都犯了&lt;/p&gt;
+&lt;p&gt;但出社會後就不要再犯了&lt;/p&gt;
+&lt;h2&gt;&lt;font color=purple&gt;自評&lt;/font&gt;&lt;/h2&gt;
+&lt;p&gt;70&lt;/p&gt;
+&lt;p&gt;老師!!!!讓我過吧:))&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業4</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2016-01-08T00:00:00+08:00</updated><author><name>40423139</name></author><id>tag:coursemdetw.github.io,2016-01-08:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;iframe src="w4.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="http://imgur.com/Ej6bnA4"&gt;&lt;img src="http://i.imgur.com/Ej6bnA4.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font cokor-red&gt;國慶日補假囉&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;祝大家放假愉快&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業5</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2016-01-08T00:00:00+08:00</updated><author><name>40423139</name></author><id>tag:coursemdetw.github.io,2016-01-08:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;以下為作業5內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="w5.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;這個禮拜我學習到了input的用法&lt;/p&gt;
+&lt;p&gt;希望我可以將它好好學習起來&lt;/p&gt;
+&lt;p&gt;用法:&lt;/p&gt;
+&lt;p&gt;input([prompt])函數可接受一個字串作為參數，該字串會在作為問題向用家查詢，並且在stdout上顯示。&lt;/p&gt;
+&lt;p&gt;我們使用下面的代碼作測試。當input函數被叫喚時，它會將第一個參數顯示在標準輸出(Standard Output)上，然後等待用戶輸入一行的資訊，將輸入的內容設定為x的數值，再將數值顯示在標準輸出上。&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業6</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w6.html" rel="alternate"></link><updated>2016-01-08T00:00:00+08:00</updated><author><name>40423139</name></author><id>tag:coursemdetw.github.io,2016-01-08:reveal/2015cp_hw_w6.html</id><summary type="html">&lt;p&gt;以下為作業6內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="w6.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;font color=red&gt;班級協同倉儲的建立&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;班級有了自己的協同倉儲後,就可以大家把東西集中在一起,才不會有資料不協調的事情發生&lt;/p&gt;
+&lt;p&gt;但也因為有了協同倉儲,任何人都可以新增及砍掉東西&lt;/p&gt;
+&lt;p&gt;所以東西很容易被誤刪&lt;/p&gt;
+&lt;p&gt;這是它的敗筆之一喔:((&lt;/p&gt;
+&lt;p&gt;進度:&lt;/p&gt;
+&lt;p&gt;pelican 網誌與 reveal.js 投影片製作, 內容送到 Github pages 分支&lt;/p&gt;
+&lt;p&gt;What engineers do? 摘要&lt;/p&gt;
+&lt;p&gt;The way of the program&lt;/p&gt;
+&lt;p&gt;Variables, expressions and statements&lt;/p&gt;
+&lt;p&gt;Hello, little turtle&lt;/p&gt;
+&lt;p&gt;Functions&lt;/p&gt;
+&lt;p&gt;Conditionals&lt;/p&gt;
+&lt;p&gt;第3組 20 分鐘 作業口頭報告&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業7</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w7.html" rel="alternate"></link><updated>2016-01-08T00:00:00+08:00</updated><author><name>40423139</name></author><id>tag:coursemdetw.github.io,2016-01-08:reveal/2015cp_hw_w7.html</id><summary type="html">&lt;p&gt;以下為作業4內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="w7.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;font color=red&gt;畫一隻會動的小烏龜&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font color=blue&gt;http://openbookproject.net/thinkcs/python/english3e/hello_little_turtles.html &lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;我們今天要利用編輯器畫一隻烏龜&lt;/p&gt;
+&lt;p&gt;複製程式碼:&lt;/p&gt;
+&lt;p&gt;import turtle
+wn = turtle.Screen()
+wn.bgcolor("lightgreen")
+tess = turtle.Turtle()
+tess.shape("turtle")
+tess.color("blue")&lt;/p&gt;
+&lt;p&gt;tess.penup()                # This is new
+size = 20
+for i in range(30):
+   tess.stamp()             # Leave an impression on the canvas
+   size = size + 3          # Increase the size on every iteration
+   tess.forward(size)       # Move tess along
+   tess.right(24)           #  ...  and turn her&lt;/p&gt;
+&lt;p&gt;wn.mainloop()&lt;/p&gt;
+&lt;p&gt;貼到scite編輯器&lt;/p&gt;
+&lt;p&gt;存檔後go&lt;/p&gt;
+&lt;p&gt;小烏龜就會動了:)))&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業8</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w8.html" rel="alternate"></link><updated>2016-01-08T00:00:00+08:00</updated><author><name>40423139</name></author><id>tag:coursemdetw.github.io,2016-01-08:reveal/2015cp_hw_w8.html</id><summary type="html">&lt;p&gt;以下為作業4內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="w8.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;font color=blue&gt;認識ip&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;網路通訊協定（Internet Protocol，IP）是用於網路交換封包的一種協定，它定義了定址方式及資料的封裝結構。而IP位址則是在網路上替主機定義位址，簡單來說它類似於公司地址，能夠明確標示出公司所在位址&lt;/p&gt;
+&lt;p&gt;&lt;font color=blue&gt;IPV4和IPV6&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;這兩個世代的網路協定，最明顯的差異就在於其提供的網路位址數量。IPv4的位址格式是採用32位元長度，位址能提供2的32次方個，換算後約42億個。雖然IPv4有這麼多IP位址，但依舊在2011年的2月3日消耗殆盡。&lt;/p&gt;
+&lt;p&gt;而IPv6的位址格式則採用128位元長度，其位址能提供2的128次方個。它所能提供的IP位址，遠遠超過IPv4的數量，預估能讓地球上每個人都分到100萬個IP位址，或是地球上每平方公尺面積皆提供1000多個IP位址。簡而言之，轉換到IPv6後，IP位址的數量多到幾乎不可能用盡。&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>

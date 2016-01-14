@@ -1,0 +1,128 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>40423125</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h1>四設一甲</h1>
+    <p>40423139曾繼緯</p>		
+</section>
+	
+<section>
+    <h2>Python3 的近端程式開發系統如何建立及修改? 如何啟動?</h2>
+    <p>我們先利用gogle搜尋leo editor並且進入下載最新版的資料!</p>
+
+
+   <p>然後進課程網頁http://wordpress-2015course.rhcloud.com/?page_id=3633 下載fix檔!</p>
+
+
+   <p>fix解壓縮後把剛剛下載的ieo editor放入!開啟scite編輯器執行fix.bat--copy leo-editor-broke-abbrev.zip C:\Ana3_2015\data\</p>
+
+
+   <p>然後修改start.bat--第35行pip install leo-editor-broke-abbrev.zip,近端的python3就完成了!!</p>
+ 
+</section>
+
+<section>
+<h2>啟動	</h2>
+<p>我們由start.bat可以充分理解它啟動了那些東西
+
+
+<font color=red>REM 啟動 Jupyter</font>
+
+
+cd tmp
+
+
+start %Disk%:\Anaconda3\python.exe "%Disk%:\Anaconda3\Scripts\ipython-script.py" notebook --ip=%thisip% --certfile=%Disk%:\home\ssl_cert.pem --profile=nbserver
+
+
+<font color=red>REM 利用 pip install pelilcan 與 Markdown</font>
+pip install leo-editor-broke-abbrev.zip
+
+
+<font color=red>REM 啟動 VMEmulator</font>
+REM start %Disk%:\apps\nand2tetris\tools\VMEmulator.bat
+
+
+<font color=red>REM 啟動 Assembler</font>
+REM start %Disk%:\apps\nand2tetris\tools\Assembler.bat
+
+
+<font color=red>REM 啟動 CPUEmulator</font>
+REM start %Disk%:\apps\nand2tetris\tools\CPUEmulator.bat
+
+
+<font color=red>REM 啟動 HardwareSimulator</font>
+REM start %Disk%:\apps\nand2tetris\tools\HardwareSimulator.bat
+
+
+<font color=red>REM 啟動 JackCompiler</font>
+REM start %Disk%:\apps\nand2tetris\tools\JackCompiler.bat
+
+
+<font color=red>REM 啟動 TextComparer</font>
+REM start %Disk%:\apps\nand2tetris\tools\TextComparer.bat
+
+
+<font color=red>REM 啟動 node.js</font>
+REM start /MIN cmd.exe /k "%Disk%:\nodejs\nodejsvars.bat"
+
+
+<font color=red>REM start %Disk%:\nodejs\node.exe</font>
+start /MIN cmd.exe
+
+
+<font color=red>REM start %Disk%:\IDE\nodejs\node.exe</font>
+REM C:\WINDOWS\system32\cmd.exe /k %Disk%:\IDE\nodejs\nodejsvars.bat
+
+
+<font color=red>REM 啟動 Leo 編輯器</font>   </p>
+</section>		
+<section>
+<h1>心得</h1>
+<p>自己慢慢漸入佳境了
+希望真的可以了解老師的苦心
+我會加油的:))))))</p>
+</section>                            
+                            
+                            
+<section>
+<h1>自評</h1>
+<p>自評分數：70               
+老師讓我過吧!!!!
+我會更加努力的!!!</p>
+</section>
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
